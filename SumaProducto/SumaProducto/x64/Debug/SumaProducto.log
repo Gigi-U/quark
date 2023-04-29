@@ -1,0 +1,7 @@
+﻿  archivo1.cpp
+  problemaC4.cpp
+C:\Users\andan\OneDrive\Escritorio\QUARK\SumaProducto\SumaProducto\problemaC4.cpp(11,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andan\OneDrive\Escritorio\QUARK\SumaProducto\SumaProducto\problemaC4.cpp(7,23): warning C4101: 'producto': variable local sin referencia
+  Generando código...
+problemaC4.obj : error LNK2005: ya se definió main en archivo1.obj
+C:\Users\andan\OneDrive\Escritorio\QUARK\SumaProducto\x64\Debug\SumaProducto.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

@@ -1,0 +1,7 @@
+﻿  archivo1.cpp
+C:\Users\andan\OneDrive\Escritorio\QUARK\SuperficieCuadrado\SuperficieCuadrado\archivo1.cpp(12,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andan\OneDrive\Escritorio\QUARK\SuperficieCuadrado\SuperficieCuadrado\archivo1.cpp(9,11): warning C4101: 'sueldo': variable local sin referencia
+  archivo2.cpp
+  Generando código...
+archivo2.obj : error LNK2005: ya se definió main en archivo1.obj
+C:\Users\andan\OneDrive\Escritorio\QUARK\SuperficieCuadrado\x64\Debug\SuperficieCuadrado.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
